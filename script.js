@@ -1,2 +1,2 @@
-let touristSpots = ['Tajmahal', 'Victoria Memorial', 'The Virupaksha Temple'];
-console.log(touristSpots);
+let touristSpots = ['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal'];
+console.log(touristSpots.sort());
